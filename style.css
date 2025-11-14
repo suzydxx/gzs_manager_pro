@@ -32,7 +32,7 @@ body{margin:0;background:var(--bg);color:#0b1724}
 .header-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
 .small-ghost{font-size:12px;color:#94a3b8}
 .footer{font-size:11px;color:#94a3b8;margin-top:12px;text-align:center}
-.creditos{font-size:10px;color:#d0d0d0;text-align:center;margin-top:10px;opacity:0.3}
+.creditos{font-size:10px;color:#d0d0d0;text-align:center;margin-top:10px;opacity:0.6}
 .table-fixed{width:100%;border-collapse:collapse}
 .inp-time{width:90px;padding:6px;border-radius:6px;border:1px solid #e6eefc}
 .total-box{background:#eaf4ff;padding:12px;border-radius:8px;margin-top:8px;font-weight:700;color:var(--blue)}
